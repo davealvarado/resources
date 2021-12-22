@@ -85,8 +85,9 @@
 
 | Title                               | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [r/Kernel](https://www.reddit.com/r/kernel/)  | A moderated community dedicated to technical discussion about the Linux kernel.                  |
+| [r/Kernel](https://www.reddit.com/r/kernel/)  | A moderated community dedicated to technical discussion about the Linux kernel.  |
 | [r/C_Programming](https://www.reddit.com/r/C_Programming/)    | The subreddit for the C programming language   |
+| [r/Linux](https://www.reddit.com/r/linux/)  | All things Linux and GNU/Linux (Not exclusively about the kernel Linux)  |
 
 <div align="center">
         <h1>Plataforms</h1>
