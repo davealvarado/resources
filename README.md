@@ -25,7 +25,7 @@
             <td align="center"><a href="https://github.com/ezvrtgs/resources#wikidocs"><img src="https://cdn-icons-png.flaticon.com/512/2991/2991106.png" width="70px;" height="75px;" alt=""><br><b>Wiki/Docs</b></a></td>
       <td align="center"><a href="https://github.com/ezvrtgs/resources#wikidocs"><img src="https://cdn-icons-png.flaticon.com/512/152/152810.png" width="70px;" height="75px;" alt=""><br><b>Videos</b></a></td>
       <td align="center"><a href="https://github.com/ezvrtgs/resources#community"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384019.png" width="70px;" height="75px;" alt=""><br><b>Community</b></a></td>
-      <td align="center"><a href="https://github.com/ezvrtgs/resources#plataforms"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgVvmCmKP-iLNIBdSKqa_w50er81_DrqL9l1H2z7uZ-YOuHK2oWmzt6Zxun_qTyWOVg4&usqp=CAU" width="70px;" height="75px;" alt=""><br><b>Platforms</b></a></td>
+      <td align="center"><a href="https://github.com/ezvrtgs/resources#platforms"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgVvmCmKP-iLNIBdSKqa_w50er81_DrqL9l1H2z7uZ-YOuHK2oWmzt6Zxun_qTyWOVg4&usqp=CAU" width="70px;" height="75px;" alt=""><br><b>Platforms</b></a></td>
       <td align="center"><a href="https://github.com/ezvrtgs/resources#others"><img src="https://uxwing.com/wp-content/themes/uxwing/download/31-location-travel-map/flag.png" width="70px;" height="75px;" alt=""><br><b>Others</b></a></td>
   </tr>
 </div>
@@ -90,7 +90,7 @@
 | [r/Linux](https://www.reddit.com/r/linux/)  | All things Linux and GNU/Linux (Not exclusively about the kernel Linux)  |
 
 <div align="center">
-        <h1>Plataforms</h1>
+        <h1>Platforms</h1>
 </div>
 
 | Title                               | Description                                                        |
